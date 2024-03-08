@@ -1,0 +1,23 @@
+{
+  "name": "hidee-utils",
+  "version": "1.0.0",
+  "description": "A set of utility function for my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiinghideee/hidee-utils"
+  },
+  "keywords": [
+    "utility"
+  ],
+  "author": "Oloyede Tobi Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.5",
+    "npm-eth-address-checker": "^1.0.2",
+    "shawnkelz-utils": "^1.0.3"
+  }
+}
